@@ -19,7 +19,7 @@ This project mimics the kind of data flow used by banks and fintech systems for 
 
 ## Dashboard Preview
 
-![PayStream Dashboard](./image.png)
+![PayStream Dashboard](./assets/image.png)
 
 ---
 
