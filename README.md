@@ -17,6 +17,12 @@ This project mimics the kind of data flow used by banks and fintech systems for 
 
 ---
 
+## Dashboard Preview
+
+![PayStream Dashboard](./image.png)
+
+---
+
 ## Tech Stack
 
 | Layer | Tools |
@@ -31,4 +37,3 @@ This project mimics the kind of data flow used by banks and fintech systems for 
 ---
 
 ## Project Structure
-
