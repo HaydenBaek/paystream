@@ -1,0 +1,8 @@
+faker
+pyspark
+dash
+plotly
+psycopg2-binary
+kafka-python
+apscheduler
+python-dotenv
