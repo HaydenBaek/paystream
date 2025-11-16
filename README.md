@@ -4,6 +4,9 @@
 
 ---
 
+## Demo Video
+[Demo Video](https://youtu.be/4JWIV0Ojiuk)
+
 ## Overview
 
 PayStream showcases a complete modern data pipeline:
