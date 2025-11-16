@@ -34,8 +34,6 @@ This project mimics the kind of data flow used by banks and fintech systems for 
 | Processing | PySpark |
 | Storage | PostgreSQL |
 | Visualization | Dash (Plotly) |
-| Scheduling (Optional) | APScheduler / Airflow |
-| Streaming (Optional) | Apache Kafka |
 
 ---
 
